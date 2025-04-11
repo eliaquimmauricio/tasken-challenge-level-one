@@ -10,7 +10,7 @@ Olá! Este desafio tem como objetivo avaliar suas habilidades de programação e
 2. **Configure o seu repositório como privado.**
 3. **Conceda acesso ao usuário `eliaquimmauricio`.**
 4. Crie um diretório para cada questão, com os respectivos códigos e uma explicação rápida (caso necessário).
-5. Responda o e-mail que você recebeu com o link do repositório. 
+5. Responda o e-mail que você recebeu com o link do **SEU** repositório. 
 6. **Prazo de entrega**: até **3 dias corridos** após o recebimento.
 7. Em caso de dúvidas, entre em contato com o RH via WhatsApp.
 8. Evite o uso de IA para resolver as questões, vai ser fácil de detectar o plágio. 😉
