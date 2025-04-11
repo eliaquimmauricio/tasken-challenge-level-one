@@ -14,6 +14,7 @@ Olá! Este desafio tem como objetivo avaliar suas habilidades de programação e
 6. **Prazo de entrega**: até **3 dias corridos** após o recebimento.
 7. Em caso de dúvidas, entre em contato com o RH via WhatsApp.
 8. Evite o uso de IA para resolver as questões, vai ser fácil de detectar o plágio. 😉
+9. Faça commits a medida que você evoluir o seu projeto, não deixe para fazer um unico commit no final.
 
 ---
 
