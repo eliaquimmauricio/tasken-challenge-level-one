@@ -6,7 +6,7 @@ Olá! Este desafio tem como objetivo avaliar suas habilidades de programação e
 
 ## 📌 Instruções
 
-1. **Faça um fork** deste repositório.
+1. **Crie um novo repositório.**
 2. **Configure o seu repositório como privado.**
 3. **Conceda acesso ao usuário `eliaquimmauricio`.**
 4. Crie um diretório para cada questão, com os respectivos códigos e uma explicação rápida (caso necessário).
